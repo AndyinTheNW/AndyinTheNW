@@ -1,4 +1,4 @@
-# Olá, me chamo Anderson ! 
+# Olá, me chamo Anderson! 
 ## Bem vindo ao meu perfil GitHub 👋
 
 ### Tecnologias que conheço e estou me aperfeiçoando:
