@@ -20,10 +20,7 @@
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyinTheNW&layout=compact&langs_count=7&theme=dracula"/>
-![Estatísticas do GitHub de AndyInTheNW](https://github-readme-stats.vercel.app/api?username=AndyInTheNW&show_icons=true&theme=radical)
 
-
-          
 </div>
 
 ### Contatos:
