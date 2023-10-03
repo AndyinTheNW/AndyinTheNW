@@ -1,5 +1,5 @@
-# Olá, me chamo Anderson! 
-## Bem vindo ao meu perfil GitHub 👋
+# Olá, me chamo Anderson! 👋 
+**Bem vindo ao meu perfil GitHub**
 
 ### Tecnologias que conheço e estou aperfeiçoando todos os dias:
 
@@ -18,9 +18,9 @@
 
 
 <div>
-<a href="https://github.com/AndyInTheNW">
+<!-- <a href="https://github.com/AndyInTheNW">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndyInTheNW&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-</a>
+</a> -->
 <a href="https://github.com/AndyInTheNW">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyInTheNW&layout=compact&langs_count=7&theme=dracula" />
 </a>
