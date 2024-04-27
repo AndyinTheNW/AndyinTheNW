@@ -1,11 +1,11 @@
 # Olá, me chamo Anderson! 👋 
 **Bem vindo ao meu perfil GitHub**
 
-### Tecnologias que conheço e estou aperfeiçoando todos os dias:
+### *Tecnologias que conheço e estou aperfeiçoando todos os dias:*
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="60" height="60"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/> 
           
- ### Tecnologias que eu já trabalhei um dia mas não são o meu foco atualmente:
+ ### *Tecnologias que eu já trabalhei um dia mas não são o meu foco atualmente:*
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="60" height="60" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60" height="60" />       
           
 
@@ -14,8 +14,7 @@
 
           
           
-## Estatisticas do meu perfil:
-
+## *Estatisticas do meu perfil:*
 
 <div>
 <!-- <a href="https://github.com/AndyInTheNW">
