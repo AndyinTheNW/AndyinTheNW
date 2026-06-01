@@ -1,4 +1,4 @@
-# Olá, me chamo Anderson! 👋 
+# Redivivus! - De volta em 2026. 
 **Bem vindo ao meu perfil GitHub**
 
 #### Tecnologias que conheço e estou aperfeiçoando todos os dias:
